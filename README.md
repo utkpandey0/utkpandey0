@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Pandey</h1>
 <h3 align="center">I am currently studying in Uttranchal University.</h3>
 
-<img align="right" alt="coding" width="400" src=https://safersocietygr.wpenginepowered.com/wp-content/uploads/2018/04/Gif-animation-hello.gif>
+<img align="right" alt="coding" width="200" src=https://safersocietygr.wpenginepowered.com/wp-content/uploads/2018/04/Gif-animation-hello.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
