@@ -1,54 +1,31 @@
-# 👋 Hi, I'm Utkarsh Pandey
-
-🚀 Aspiring Machine Learning Engineer | 🤖 Python Developer | 🧠 AI Enthusiast
-
-Welcome to my GitHub! I love building intelligent systems, automating tasks, and working on real-world data-driven problems.
+<h1 align="center">Hi there 👋, I'm Utkarsh Pandey</h1>
+<h3 align="center">🎓 Currently pursuing B.Tech, 2nd Year at Uttaranchal University</h3>
 
 ---
 
-### 🔧 Tech Stack
+### 🌐 Connect with Me
 
-- **Languages**: Python, C++, JavaScript, HTML/CSS  
-- **Libraries/Frameworks**: TensorFlow, Keras, NumPy, Pandas, OpenCV, Scikit-learn, Matplotlib  
-- **Tools**: Git, GitHub, Gradio, Google Colab, Jupyter Notebooks, VS Code  
-- **ML/DL**: Neural Networks, CNNs, Regression, Classification, Transfer Learning  
-
----
-
-### 📈 GitHub Stats
-
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkpandey0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkpandey0&layout=compact&theme=radical)
+<p align="left">
+  <a href="https://kaggle.com/utkarsh00001" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/utk_pandey" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-### 📌 Featured Projects
+### 🛠️ Languages & Tools I Use
 
-- 🧠 **[Graduate Admission Predictor](https://github.com/utkpandey0/Graduate-Admission-Predictor)**  
-  Predicts graduate admission chances using regression models and a clean UI built with Gradio.
-
-- 😷 **[Face Mask Detection](https://github.com/utkpandey0/Face-Mask-Detector)**  
-  Real-time face mask detection using CNN and OpenCV, deployed with webcam and Gradio.
-
-- 🔢 **[Handwritten Digit Recognition](https://github.com/utkpandey0/Digit-Recognizer)**  
-  Recognizes digits from user-drawn input using MNIST and neural networks.
-
----
-
-### 🌱 Currently Learning
-
-- Advanced deep learning techniques  
-- Model deployment & APIs  
-- Contributing to open-source ML projects  
-
----
-
-### 📫 Connect with Me
-
-- 📧 utkarshpandey.example@gmail.com *(replace with your real email if comfortable)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/utkpandey0) *(replace if needed)*  
-- 🧠 [Kaggle](https://www.kaggle.com/utkpandey0)
-
----
-
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
