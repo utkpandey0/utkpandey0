@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Utkarsh Pandey</h1>
-<h3 align="center">🎓 Currently pursuing B.Tech, 2nd Year at Uttaranchal University</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/utkpandey0/utkpandey0/main/banner.png" alt="Utkarsh Pandey Banner" width="100%">
+</p>
 
 ---
 
