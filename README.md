@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/utkpandey0/utkpandey0/main/banner.png" alt="Utkarsh Pandey Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/utkpandey0/utkpandey0/main/banner.png" alt="Utkarsh Pandey Banner" width="60%">
 </p>
 
 ---
